@@ -4,4 +4,4 @@ PIN messages:
 
 Active Directory (AD):
 
- 
+CLETS: California Law Enforcement Telecommunication System 
