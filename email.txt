@@ -1,0 +1,12 @@
+Email is:
+asynchronous
+one-to-one
+one-to-many
+not anonymous
+requires a client
+can be used to communicate outside of an organization
+recipient can't control what is received (much)
+sender can't control how message is retransmitted (much)
+can attach files
+can be encrypted
+routing happens without much human involvement
