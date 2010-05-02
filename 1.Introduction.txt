@@ -1,0 +1,18 @@
+# Introduction #
+
+In December, 2009, the city of San Francisco issued a request for quote (RFQ) for "the analysis and compilation of business, technical and policy requirements, for the...email environment [of the city]," (Request for Quote, Department of Technology, San Francisco). In addition to an assessment of the email requirements for the city, the proposal specifies that "the contractor will need to help define and evaluate the policy and technical implications of 'open email'," and further that there is to be a "case study of the Law Enforcement Agency email pilot project." 
+A multi-disciplinary team from the Center for Information Technology Research in the Interest of Society (CITRIS) at UC Berkeley, including faculty and graduate researchers from Boalt Law School and the School of Information, submitted a proposal in mid-December. The proposal describes two tracks of inquiry. The first is focused on "examin[ing] alternative approaches to achieving the City's goal to be 'an open and transparent organization' through 'open email'," through "technical, security, legal, and ethical analysis," (Quote and Proposal, CITRIS). The second track is an examination of the "Law Enforcement Pilot Program," specifically through qualitative research aimed at assessing the current uses and needs of the San Francisco Police Department (SFPD) with regard to email. Additionally, the qualitative research with the SFPD is designed to "analyze the social implications of various 'open email' systems and the consequences that user behavior may have for the overall openness and transparency of government, employee privacy, [and] efficiency," (Quote and Proposal, CITRIS). It is the second track that I was responsible for, and which is the focus of this paper.
+
+## What is email?
+
+The focus of my qualitative research with the SFPD was on the use of email as a communication medium. Email describes a system by which an individual can create an electronic message on client 
+
+## "Openness" in California Government
+
+
+## Current Email Landscape of San Francisco and the SFPD
+
+As of May, 2010, the San Francisco's email infrastructure is highly heterogeneous. Each department within the city exercises significant control over how email is deployed, used, and managed. Although email addresses across the city belong to the same domain, sfgov.org, the email servers, clients, and policies are determined by each department. For example, in the SFPD, email access is 
+
+CPRA - what is it, why does it matter
+	Sunshine ordinances/Calif prop 59

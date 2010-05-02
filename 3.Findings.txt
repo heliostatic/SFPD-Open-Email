@@ -1,0 +1,73 @@
+# Findings #
+
+## Current Use
+
+### Email use is socially determined ##
+
+* Use varies with rank and role
+* Perception of value depends heavily on social demand
+* Email is often used to communicate outside of the police department
+	* Public
+	* Other LEAs
+* Email is sometimes used to communicate with superiors
+* Users have different feelings about, and value differently, sending and receiving email
+
+### Trust and reliability are the most critical factors when communicating ##
+
+* Human communication systems are the most trusted
+  * Humans are trusted to:
+		* obey chain of command,
+		* make good decisions about who to share information with,
+		* properly follow procedures,
+		* be accountable for their mistakes. (a tie into the PAIT side of things - many hands with automated systems)
+	* Automatic filters are hard to trust.
+		* It is hard for users to reconcile their personal views about privacy with the views of privacy embedded in a computer system.
+* Computers are viewed as somewhat unreliable/slow. This decreases their value, especially when they are shared. Logging in for the first time on a system can take up to 10 minutes.
+
+### There isn't a developed culture or set of policies around computer use generally, email use specifically, nor is there consistent, extensive training on the use of these tools for non-investigative purposes ##
+
+* The only DGO regarding email use is from 2002 and addresses inappropriate, but not appropriate, use.
+* There is little awareness or, or request for, disclosure of email communication to the public.
+* There is no training on what information can or can't be shared over email.
+* In contrast, there is some training and policy about police reports, as they are often released to the public.
+* People have developed personal habits and standards for separating work and personal email.
+	* Practices vary, but most users believe they have good habits, even when their habits are described by other people as being examples of bad habits.
+		* eg, 
+			* Sending work email from personal accounts
+			* Checking personal email accounts from work
+			* Sending (non-sensitive) information between work and personal accounts
+* Some users view email as being a tool that has the potential to disrupt the chain of command, again because of norms rather than technical differences between email and, for example, interoffice memos
+
+### (NOT SURE HOW TO CHARACTERIZE THIS) Individuals have access to technology beyond what is provided by the department
+
+* The department doesn't provide mobile devices to patrol officers, but most patrol officers have and carry personal mobile phones. Some of these phones include email. Even those that don't have email have cell phones with cameras, which provides them with the ability to share images from the field to the station, and more problematically, from the station to the field.
+* Commercial email systems provide features not available on the SFPD email system, like large attachments and easy access from home.
+
+### Computers are viewed as shared resources by many users
+
+* The computer system uses roaming profiles and a vendor provided web workstation, with the effect that any user can login to any computer and have all of their files and settings.
+	* Many users made comments to the effect that they don't have their "own" computers, even if they only ever use one computer and they are typically the only user of that computer. I've called this "no home"
+
+## Openness and Transparency
+
+### Users understand and respect the public right to information, but worry about balancing that with the ability of the PD to do its job
+
+* Within the police department, there is culture of protection of information
+	* quote from Lt. Silverman
+* For police, there is "right to know, need to know" training and attitude, which colors their views.
+	* The balancing of interests is a traditional privacy view in the sphere of public access to government information
+* Many users are not directly aware of the CPRA
+
+### Transparent email will lead to performative behavior
+
+* quotes from staff services about spell checking, chief about not always being thoughtful but how a shift to transparency would require that
+
+### Initial user reaction to transparency would be decreased use
+
+* Every respondent said they would use email less (or not at all) and rely on other forms of communication, even if those forms were less efficient, if the email system was transparent
+	* Unpacking this, it seems like a lot of the concern was about not knowing what would be made available.
+		* Quotes from respondents about:
+			* deliberative process,
+			* confidential material,
+			* security issues.
+	* Contrast with openness of police reports, police radio channel
