@@ -23,10 +23,13 @@ The focus of my qualitative research with the SFPD was on the use of email as a 
 * routes messages without realtime human involvement;
 * results in messages being stored on the sender's machine, the recipient's machine, and at least one server in between.
 
-
+These features distinguish it from other forms of electronic and non-electronic communication used in the SFPD.
 
 ## "Openness" in California Government
 
+Openness in government can and does mean many things. Typically, it involves granting the public access to government meetings and writings. At the federal level, the United States has the Freedom of Information Act (FOIA), passed in 1966, among other laws. However, many states have their own laws as well. In 2004, Californians voted in favor of proposition 59 (Prop 59, First Amendment Coalition), a proposed amendment to the state constitution which established public access to government information as a constitutional right (California Constitution, Article 1, Section 3). 
+
+The statutory right to government information has existed in California since well before 2004. In 1968, the California legislature enacted the California Public Records Act (CPRA) (California State Government Code, Section 6250-6270). The CPRA allows for anyone to request access to a public record. The CPRA defines a public record as "includ[ing] any writing containing information relating to the conduct of the public's business prepared, owned, used or retained by any state or local agency regardless of physical form or characteristics," (GC Sec 6252). For the purposes of this investigation, I focused on the CPRA.
 
 ## Current Email Landscape of San Francisco and the SFPD
 
