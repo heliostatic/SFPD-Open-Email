@@ -62,6 +62,8 @@ Mousavi, N., and others. 2005. “When the Public does not Have a Right to Know:
 
 Newsom, Gavin. 2009. “ED 09-06 Open Data.” http://www.sfmayor.org/wp-content/uploads/2009/10/ED-09-06-Open-Data.pdf (Accessed May 2, 2010).
 
+Nissenbaum, Helen. 1994. “Computing and accountability.” Commun. ACM 37:72-80.
+
 Nissenbaum, H. 2004. “Privacy as contextual integrity.” Wash. L. Rev. 79:119.
 
 Nissenbaum, H. 1998. “Protecting privacy in an information age: The problem of privacy in public.” Law and Philosophy 17:559–596.
