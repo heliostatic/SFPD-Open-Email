@@ -5,3 +5,5 @@ PIN messages:
 Active Directory (AD):
 
 CLETS: California Law Enforcement Telecommunication System 
+
+CPRA: California Public Records Act
