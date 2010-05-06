@@ -14,6 +14,8 @@
 
 “DataSF - Liberating City Data.” http://www.datasf.org/ (Accessed May 2, 2010).
 
+“Mobile phones connect police, community | San Francisco Examiner.” 2009. http://www.sfexaminer.com/local/Mobile-connects-police-community-59697032.html (Accessed May 6, 2010).
+
 “Open Government Initiative | The White House.” http://www.whitehouse.gov/open (Accessed May 2, 2010).
 
 “Privacy and Information Quality.” http://it.ojp.gov/default.aspx?area=globalJustice&page=1238 (Accessed May 2, 2010).
